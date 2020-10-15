@@ -1,0 +1,12 @@
+E:\udemy\EventSocialNetwork\Reactivities\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+E:\udemy\EventSocialNetwork\Reactivities\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+E:\udemy\EventSocialNetwork\Reactivities\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+E:\udemy\EventSocialNetwork\Reactivities\Persistence\bin\Debug\netstandard2.0\Domain.dll
+E:\udemy\EventSocialNetwork\Reactivities\Persistence\bin\Debug\netstandard2.0\Domain.pdb
+E:\udemy\EventSocialNetwork\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+E:\udemy\EventSocialNetwork\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+E:\udemy\EventSocialNetwork\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+E:\udemy\EventSocialNetwork\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
+E:\udemy\EventSocialNetwork\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+E:\udemy\EventSocialNetwork\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.pdb
+E:\udemy\EventSocialNetwork\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CoreCompileInputs.cache

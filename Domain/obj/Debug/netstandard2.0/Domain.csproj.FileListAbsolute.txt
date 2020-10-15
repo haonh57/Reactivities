@@ -1,0 +1,9 @@
+E:\udemy\EventSocialNetwork\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+E:\udemy\EventSocialNetwork\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.dll
+E:\udemy\EventSocialNetwork\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.pdb
+E:\udemy\EventSocialNetwork\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+E:\udemy\EventSocialNetwork\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+E:\udemy\EventSocialNetwork\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+E:\udemy\EventSocialNetwork\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.dll
+E:\udemy\EventSocialNetwork\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.pdb
+E:\udemy\EventSocialNetwork\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
